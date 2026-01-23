@@ -2,7 +2,7 @@
 
 A dark theme for Omarchy inspired by the aesthetics of VHS tapes and retro technology.
 
-![Preview](./vhs80.png)
+![Preview](./preview.png)
 
 ### Installation
 
